@@ -1,0 +1,13 @@
+var 1nombre string                          INCORRECT
+var apellido string                         CORRECT
+var int edad                                CORRECT
+1apellido := 6                              INCORRECT
+var licencia_de_conducir = true             CORRECT
+var estatura de la persona int              INCORRECT
+
+
+var nombre string
+apellido := 6
+var estatura_de_la_persona int
+
+--------------------------------------------------------

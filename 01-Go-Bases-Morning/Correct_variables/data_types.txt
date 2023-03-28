@@ -1,0 +1,10 @@
+var apellido string = "Gomez"               CORRECT
+var edad int = "35"                         INCORRECT
+boolean := "false";                         CORRECT
+var sueldo string = 45857.90                INCORRECT
+var nombre string = "Julián"                CORRECT
+
+var edad int = 35
+var sueldo float64 = 45857.90
+
+-------------------------------------------------------
